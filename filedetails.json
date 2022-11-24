@@ -1,4 +1,3 @@
-filedetails.json
 {
   "ovpn_file":[
     {"id":0,"file":"setenv FORWARD_COMPATIBLE 1
