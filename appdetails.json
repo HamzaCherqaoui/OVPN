@@ -17,5 +17,6 @@
   ],
   "free":[
     {"id":0, "file":0, "city":"Seoul","country":"South Korea","image":"southkorea","ip":"34.80.214.131","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"New York","country":"United States","image":"unitedstates","ip":"33.80.214.131","active":"true","signal":"a"},
   ]
 }
