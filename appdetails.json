@@ -16,9 +16,11 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"Seoul","country":"South Korea","image":"southkorea","ip":"34.80.214.131","active":"true","signal":"a"},
-    {"id":1, "file":0, "city":"New York","country":"United States","image":"unitedstates","ip":"33.80.214.131","active":"true","signal":"b"},
+    {"id":0, "file":0, "city":"Taipei","country":"Taiwan","image":"taiwan","ip":"34.80.214.131","active":"true","signal":"b"},
+    {"id":1, "file":1, "city":"Portland","country":"United States","image":"unitedstates","ip":"35.197.45.36","active":"true","signal":"a"},
     {"id":2, "file":0, "city":"London","country":"United Kingdom","image":"unitedkingdom","ip":"32.80.214.131","active":"true","signal":"c"},
     {"id":3, "file":0, "city":"Paris","country":"France","image":"france","ip":"31.80.214.131","active":"true","signal":"a"},
+    {"id":4, "file":0, "city":"Seoul","country":"South Korea","image":"southkorea","ip":"34.80.214.131","active":"true","signal":"a"},
+    {"id":5, "file":0, "city":"Seoul","country":"South Korea","image":"southkorea","ip":"34.80.214.131","active":"true","signal":"a"},
   ]
 }
